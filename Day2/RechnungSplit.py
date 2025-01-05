@@ -1,0 +1,7 @@
+print("\nWillkommen beim RechnungSplit-Programm!\n")
+Betrag = float(input(("\nBitte geben Sie den zu zahlenden Betrag ein:\n€")))
+Trinkgeld = int(input(("Bitte wählen Sie, wie viel Trinkgeld Sie geben möchten: 5%, 10%, 15%:\n%")))
+Total = Betrag + ((Betrag*Trinkgeld)/100)
+Personenanzahl = int(input(("Wie viele Personen:\n")))
+prokopf = round((Total/Personenanzahl),2)
+print(f"Der pro Kopf zu zahlende Betrag: €{prokopf}")
