@@ -9,7 +9,7 @@ In diesem Repository findest du eine kompakte Zusammenfassung von Python, von de
 
   - Eine strukturierte Übersicht von Python-Themen, die von Grundkenntnissen bis hin zu fortgeschrittenen Konzepten reichen.
   Ideal, um Python schnell zu erlernen oder dein Wissen aufzufrischen.
-  Tägliche Projekte:
+  
   
   - Jeden Tag ein neues Projekt, das die behandelten Themen in die Praxis umsetzt.
   Von einfachen Skripten bis hin zu komplexeren Anwendungen – perfekt für Einsteiger und Fortgeschrittene.
