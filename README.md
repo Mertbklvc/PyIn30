@@ -16,20 +16,12 @@ In diesem Repository findest du eine kompakte Zusammenfassung von Python, von de
 
 ## 📅 Tagesprojekte
 
-| Tag   | Projektname                | Beschreibung                                                                                  |
-|-------|----------------------------|----------------------------------------------------------------------------------------------|
-| Day 1 | Band Name Generator        | Ein einfacher Generator, der basierend auf Benutzereingaben Bandnamen erstellt.             |
-| Day 2 | Taschenrechner             | Ein grundlegender Taschenrechner, der Addition, Subtraktion, Multiplikation und Division ermöglicht. |
-| Day 3 | Passwortgenerator          | Ein Programm zur Erstellung sicherer und zufälliger Passwörter.                             |
-| Day 4 | Zufällige Würfelsimulation | Eine Simulation eines Würfelwurfs mit zufälligen Ergebnissen.                               |
-| Day 5 | Zahlenratespiel            | Ein Spiel, bei dem der Benutzer eine zufällige Zahl erraten muss.                           |
-| Day 6 | To-Do-Listen-App           | Eine einfache Konsole-basierte App zur Verwaltung von Aufgaben.                             |
-| Day 7 | Taş-Kağıt-Makas            | Klassisches Spiel zwischen Benutzer und Computer.                                           |
-| Day 8 | Temperaturumrechner        | Konvertiert Temperaturen zwischen Celsius, Fahrenheit und Kelvin.                          |
-| Day 9 | Wörterzähler               | Ein Tool zur Analyse von Text und Zählen von Wörtern, Zeichen und Sätzen.                  |
-| Day 10| Zufälliger Passworttest    | Testet ein Passwort und bewertet seine Stärke.                                             |
-
-
+| Tag   | Projektname                |
+|-------|----------------------------|
+| Day 1 | Bandnamen Generator        |
+| Day 2 | BMI Calculator, RechnungSplit            |
+| Day 3 | Gerade_Ungerade, PizzaPreis, Schatzinsel          |
+| Day 4 | Münzwurf, SteinPapierSchere |
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
