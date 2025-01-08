@@ -15,13 +15,13 @@ Python Zusammenfassung:
 
 ## 📅 Tagesprojekte
 
-| Tag   | Projekt 1           | Projekt 2         | Projekt 3   |
-| ----- | ------------------- | ----------------- | ----------- |
-| Day 1 | Bandnamen Generator |                   |             |
-| Day 2 | BMI Calculator      | RechnungSplit     |             |
-| Day 3 | Gerade_Ungerade     | PizzaPreis        | Schatzinsel |
-| Day 4 | Münzwurf            | SteinPapierSchere |             |
-| Day 5 | Password_Generator  |                   |             |
+| Tag   | Projekt 1           | Projekt 2         | Projekt 3    |
+| ----- | ------------------- | ----------------- | ------------ |
+| Day 1 | Bandnamen Generator |                   |              |
+| Day 2 | BMI Calculator      | RechnungSplit     |              |
+| Day 3 | Gerade_Ungerade     | PizzaPreis        | Schatz_Insel |
+| Day 4 | Münzwurf            | SteinPapierSchere |              |
+| Day 5 | Password_Generator  |                   |              |
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
