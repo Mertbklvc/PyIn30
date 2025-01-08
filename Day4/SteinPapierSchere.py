@@ -38,6 +38,7 @@ Schere = """
 game_images = [Stein,Papier,Schere]
 game_text = ["Stein", "Papier", "Schere"]
 auswahl = int(input("\nDrücken Sie 0 für Stein, 1 für Papier und 2 für Schere: \n"))
+    
 print(game_images[auswahl])
 print(game_text[auswahl])
 print("\n----------------------------------------------------------\n")
