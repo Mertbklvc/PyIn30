@@ -16,12 +16,12 @@ In diesem Repository findest du eine kompakte Zusammenfassung von Python, von de
 
 ## 📅 Tagesprojekte
 
-| Tag   | Projektname                |
-|-------|----------------------------|
-| Day 1 | Bandnamen Generator        |
-| Day 2 | BMI Calculator, RechnungSplit            |
-| Day 3 | Gerade_Ungerade, PizzaPreis, Schatzinsel          |
-| Day 4 | Münzwurf, SteinPapierSchere |
+| Tag   | Projekt 1                |  Projekt 2           |  Projekt 3    | 
+|-------|----------------------------|----------------------------|
+| Day 1 | Bandnamen Generator        |                  | 
+| Day 2 | BMI Calculator            | RechnungSplit | 
+| Day 3 | Gerade_Ungerade          | PizzaPreis | Schatzinsel 
+| Day 4 | Münzwurf | SteinPapierSchere | 
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
