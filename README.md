@@ -5,24 +5,23 @@ In diesem Repository findest du eine kompakte Zusammenfassung von Python, von de
 
 📖 Inhalt
 
-  Python Zusammenfassung:
+Python Zusammenfassung:
 
-  - Eine strukturierte Übersicht von Python-Themen, die von Grundkenntnissen bis hin zu fortgeschrittenen Konzepten reichen.
+- Eine strukturierte Übersicht von Python-Themen, die von Grundkenntnissen bis hin zu fortgeschrittenen Konzepten reichen.
   Ideal, um Python schnell zu erlernen oder dein Wissen aufzufrischen.
-  
-  
-  - Jeden Tag ein neues Projekt, das die behandelten Themen in die Praxis umsetzt.
+
+- Jeden Tag ein neues Projekt, das die behandelten Themen in die Praxis umsetzt.
   Von einfachen Skripten bis hin zu komplexeren Anwendungen – perfekt für Einsteiger und Fortgeschrittene.
 
 ## 📅 Tagesprojekte
 
-| Tag   | Projekt 1                | Projekt 2           | Projekt 3          |
-|-------|--------------------------|---------------------|--------------------|
-| Day 1 | Bandnamen Generator      |                     |                    |
-| Day 2 | BMI Calculator           | RechnungSplit       |                    |
-| Day 3 | Gerade_Ungerade          | PizzaPreis          | Schatzinsel        |
-| Day 4 | Münzwurf                 | SteinPapierSchere   |                    |
-
+| Tag   | Projekt 1           | Projekt 2         | Projekt 3   |
+| ----- | ------------------- | ----------------- | ----------- |
+| Day 1 | Bandnamen Generator |                   |             |
+| Day 2 | BMI Calculator      | RechnungSplit     |             |
+| Day 3 | Gerade_Ungerade     | PizzaPreis        | Schatzinsel |
+| Day 4 | Münzwurf            | SteinPapierSchere |             |
+| Day 5 | Password_Generator  |                   |             |
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
