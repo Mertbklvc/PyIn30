@@ -22,6 +22,7 @@ Python Zusammenfassung:
 | Day 3 | Gerade_Ungerade     | PizzaPreis        | Schatz_Insel |
 | Day 4 | Münzwurf            | SteinPapierSchere |              |
 | Day 5 | Password_Generator  |                   |              |
+| Day 6 | Geld_Automat        |                   |              |
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
