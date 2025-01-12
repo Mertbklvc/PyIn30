@@ -1,0 +1,36 @@
+def grüss():
+    print("Servus!")
+    print("Wie geht's")
+    print("Wie ist das Wetter heute?")
+    
+
+grüss()
+
+
+# Beispiel für eine argumentlose Funktion
+
+def grüssdich(name):
+    print(f"Servus {name}")
+    print(f"Wie geht's {name}")
+    
+    
+grüssdich("Sinem")
+
+
+# Beispiel für eine Funktion mit Argumenten
+
+# In Python sind Parameter Platzhalter in der Funktionsdefinition, während Argumente die tatsächlichen Werte sind, die bei einem
+# Funktionsaufruf übergeben werden.
+
+
+def Person(name, age):
+    print(f"Hallo, ich heisse {name}")
+    print(f"Ich bin {age} Jahre alt")
+    
+# Funktionen mit mehr als 1 Argument
+
+Person("Mert",24)
+
+Person(age= 23, name="Sinem")
+
+# Wir können sie durch ein Schlüsselwortargument ersetzen.
