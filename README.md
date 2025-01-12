@@ -24,6 +24,7 @@ Python Zusammenfassung:
 | Day 5 | Password_Generator  |                   |              |
 | Day 6 | Geld_Automat        |                   |              |
 | Day 7 | Hangman             |                   |              |
+| Day 8 | CaeaserCipher       |                   |              |
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
