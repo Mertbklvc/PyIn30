@@ -1,17 +1,26 @@
-🐍 30-Tage-Python-Challenge
+🌟 **PyIn30: Verbessere deine Python-Kenntnisse in nur 30 Tagen!**
+
 
 Willkommen zu meinem 30-Tage-Python-Challenge! 🚀
+
+Dieses Repository wurde entwickelt, um Python schnell zu wiederholen und jeden Tag mit verschiedenen Projekten dein Wissen zu festigen.
 In diesem Repository findest du eine kompakte Zusammenfassung von Python, von den Grundlagen bis hin zu fortgeschrittenen Themen, sowie 30 tägliche Projekte, die ich als Teil dieser Herausforderung erstellt habe.
 
-📖 Inhalt
+🚀 Was beinhaltet es?
 
-Python Zusammenfassung:
+- Tägliche Python-Lektionen und Projekte.
+- Mini-Projekte: Praktische Anwendungen zur Lösung realer Probleme.
+- Schnelle Wiederholungen: Ermöglicht ein schnelles Lernen von grundlegenden Themen.
+- Geeignet für jedes Niveau: Sowohl für Anfänger als auch für diejenigen, die ihr Wissen auffrischen möchten.
 
-- Eine strukturierte Übersicht von Python-Themen, die von Grundkenntnissen bis hin zu fortgeschrittenen Konzepten reichen.
-  Ideal, um Python schnell zu erlernen oder dein Wissen aufzufrischen.
+📌 Mitmachen
 
-- Jeden Tag ein neues Projekt, das die behandelten Themen in die Praxis umsetzt.
-  Von einfachen Skripten bis hin zu komplexeren Anwendungen – perfekt für Einsteiger und Fortgeschrittene.
+Wenn du zu diesem Projekt beitragen möchtest, würde ich mich über deinen Beitrag freuen!
+Was du tun kannst:
+
+- Neue Projektideen vorschlagen.
+- Fehler beheben und Pull Requests senden.
+- Deine Verbesserungsvorschläge teilen.
 
 ## 📅 Tagesprojekte
 
@@ -24,6 +33,7 @@ Python Zusammenfassung:
 | Day 5 | Password_Generator  |                   |              |
 | Day 6 | Geld_Automat        |                   |              |
 | Day 7 | Hangman             |                   |              |
+| Day 8 | CaeaserCipher       |                   |              |
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
