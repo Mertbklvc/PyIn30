@@ -34,6 +34,8 @@ Was du tun kannst:
 | Day 6 | Geld_Automat        |                   |              |
 | Day 7 | Hangman             |                   |              |
 | Day 8 | CaeaserCipher       |                   |              |
+| Day 8 | Geheimes Auktuion   |                   |              |
+
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
