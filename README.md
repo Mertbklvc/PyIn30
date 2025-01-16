@@ -45,4 +45,4 @@ Kontakt: mertcanbklvc@gmail.com
 
 Falls du deine Python-Kenntnisse noch weiter vertiefen möchtest, empfehle ich dir den Kurs "100 Days of Code: The Complete Python Pro Bootcamp" von Dr. Angela Yu.
 
-📚 Hier geht's zum Kurs
+📚 [Hier geht's zum Kurs](https://www.udemy.com/share/103IHM3@14XmkeX34fTVpBfclH0oAYeFe6v05lU5HCmLudU5MU-JQ3K0jWjJrgnOBHZOxhrT/)
