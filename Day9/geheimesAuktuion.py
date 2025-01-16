@@ -35,6 +35,7 @@ while status:
     
     if programm_status == "nein":
         max_auktion(bid_dict)
+        time.sleep(2)
         status= 0
         
 
