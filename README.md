@@ -40,3 +40,9 @@ Was du tun kannst:
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
 Kontakt: mertcanbklvc@gmail.com
+
+📖 Empfohlener Kurs
+
+Falls du deine Python-Kenntnisse noch weiter vertiefen möchtest, empfehle ich dir den Kurs "100 Days of Code: The Complete Python Pro Bootcamp" von Dr. Angela Yu.
+
+📚 Hier geht's zum Kurs
