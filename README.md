@@ -34,7 +34,9 @@ Was du tun kannst:
 | Day 6 | Geld_Automat        |                   |              |
 | Day 7 | Hangman             |                   |              |
 | Day 8 | CaeaserCipher       |                   |              |
-| Day 8 | Geheimes Auktuion   |                   |              |
+| Day 9 | Geheimes Auktuion   |                   |              |
+| Day 10| Calculator          |                   |              |
+
 
 
 📬 Feedback
