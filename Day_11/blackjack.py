@@ -28,9 +28,9 @@ def vergleich_score(u_score,c_score):
     elif u_score > 21:
         return "\nDie Summe von ihrer Karten übersteigt 21! Sie haben verloren!"
     elif c_score > 21:
-        return "\nDie Summe der Karten, die der Computer hat, übersteigt 21! Sie haben gewinnen!"
+        return "\nDie Summe der Karten, die der Computer hat, übersteigt 21! Sie haben gewonnen!"
     elif u_score > c_score:
-        return "\nSie haben gewinnen!"
+        return "\nSie haben gewonnen!"
     else:
         return "\nSie haben verloren!"
  
