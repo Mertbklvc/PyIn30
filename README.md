@@ -37,6 +37,7 @@ Was du tun kannst:
 | Day 9 | Geheimes Auktuion   |                   |              |
 | Day 10| Calculator          |                   |              |
 | Day 11| Blackjack           |                   |              |
+| Day 12| RateZahl            |                   |              |
 
 
 
