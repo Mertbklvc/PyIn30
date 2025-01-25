@@ -39,7 +39,7 @@ Was du tun kannst:
 | Day 11| Blackjack           |                   |              |
 | Day 12| RateZahl            |                   |              |
 | Day 13| HigherLower         |                   |              |
-
+| Day 14| Kaffeemaschine      |                   |              |
 
 
 📬 Feedback
