@@ -40,7 +40,8 @@ Was du tun kannst:
 | Day 12| RateZahl            |                   |              |
 | Day 13| HigherLower         |                   |              |
 | Day 14| Kaffeemaschine      |                   |              |
-
+| Day 14| OOP_KaffeMaschine   |                   |              |
+         
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
