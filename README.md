@@ -41,7 +41,7 @@ Was du tun kannst:
 | Day 13| HigherLower         |                   |              |
 | Day 14| Kaffeemaschine      |                   |              |
 | Day 15| OOP_KaffeMaschine   |                   |              |
-| Day 15| QuizApp             |                   |              |
+| Day 16| QuizApp             |                   |              |
          
 
 📬 Feedback
