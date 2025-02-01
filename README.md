@@ -42,7 +42,8 @@ Was du tun kannst:
 | Day 14| Kaffeemaschine      |                   |              |
 | Day 15| OOP_KaffeMaschine   |                   |              |
 | Day 16| QuizApp             |                   |              |
-         
+| Day 17| Punktplotter        |                   |              |
+| Day 18| SketchApp           | TurtleRace        |              |  
 
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
