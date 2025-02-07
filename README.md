@@ -46,6 +46,9 @@ Was du tun kannst:
 | Day 18| SketchApp           | TurtleRace        |              |  
 | Day 19| SnakeGame v1        |                   |              |  
 | Day 20| SnakeGame v2        |                   |              |  
+
+
+
 📬 Feedback
 Ich freue mich über dein Feedback, deine Vorschläge oder deine eigenen Ideen zur Erweiterung dieser Challenge.
 Kontakt: mertcanbklvc@gmail.com
