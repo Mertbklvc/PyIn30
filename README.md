@@ -46,6 +46,7 @@ Was du tun kannst:
 | Day 18| SketchApp           | TurtleRace        |              |  
 | Day 19| SnakeGame v1        |                   |              |  
 | Day 20| SnakeGame v2        |                   |              |  
+| Day 21| PingPong v1         |                   |              |  
 
 
 
