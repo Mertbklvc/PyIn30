@@ -36,7 +36,7 @@ while game_is_on:
         snake.extend()
         scoreboard.increase_score()
         
-    if snake.head.xcor() > 380 or snake.head.xcor() < -380 or snake.head.ycor() > 380 or snake.head.ycor() < -380:
+    if snake.head.xcor() > 390 or snake.head.xcor() < -390 or snake.head.ycor() > 390 or snake.head.ycor() < -390:
         game_is_on = False
         scoreboard.game_over() 
 
